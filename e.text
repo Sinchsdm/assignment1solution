@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Assignment 2</title>
+<link rel="stylesheet" href="style.css">
+<body>
+<h1>CRM Admin</h1>
+<nav>
+<ul>
+<li><a href="/html/">Home</a></li>
+<li><a href="/css/">About</a></li>
+<li><a href="/js/">Products</a></li> 
+<li><a href="/python/">Contact us</a></li>
+</nav>
+<h1>Employee Profile</h1>
+<section>
+<h2>Profile Photo</h2>
+<div class="profile">
+<img src="https://www.instagram.com/p/B7ijyYQFhaEFe_cVAh7EcC7he4tr9ej6CHCd040/.jpg" width="200"/>
+<p>Sinchana B M</p>
+</div>
+</section>
+<section>
+<h2>Profile Photo</h2>
+<div class="personaldata">
+<p>Address</p>
+<p class="paddress">#3, Devangi,Balekoppa</p>
+<p>City</p>
+<p class="paddress">Thirthahalli,Shimogga,Karnataka, India</p>
+<p>Phone</p>
+<p class="paddress">+91 9868062380</p>
+</div>
+</section>
+<section>
+<h2>Customers</h2>
+<div class="customers">
+<p><a href="#">Customer-1</a></p>
+<p>Goa</p>
+<p><a href="#">Customer-2</a></p>
+<p>Karnataka</p>
+</div>
+</section>
+<section>
+<aside>
+<h2>New Inventory</h2>
+<p><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/machineLearning3.png" width="200"/> Write something about the New Inventory. </p>
+</aside>
+<aside>
+<p><img src="https://specials-images.forbesimg.com/imageserve/5ef030968548c80006be69fb/960x0.jpg?fit=scale" width=200/> Write something about the New Inventory. </p>
+</aside>
+<aside>
+<p><img src="https://miro.medium.com/max/700/1*11SddVtxjLi2SwVtSBB_Uw.jpeg" width="200"/> Write something about the New Inventory.</p>
+</aside>
+</section>
+<section>
+<footer>
+<p>Copy right @ Sinchana B M</p>
+<p><a href="#">Contact Sinchana B M</a></p>
+</footer>
+</section>
+</body>
+</html>
